@@ -1,4 +1,6 @@
 # Guilherme Pires
-- [x] Venus
+- [x] Programador
 
 ![Bork Lasers](bork.jpg)
+
+*Americana, São Paulo, Brasil*
