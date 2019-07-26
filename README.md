@@ -1,5 +1,6 @@
 # Guilherme Pires
 -[x]Desenvolvedor
-[x]Programador
+
+-[x]Programador
 
 ![Bork Lasers](bork.jpg)
