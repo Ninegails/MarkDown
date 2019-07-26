@@ -15,3 +15,4 @@
 - [LinkedIn](https://linkedin.com)
 
 
+![Instagram](insta.png) ![Facebook](face.png) ![Twitter](twitter.png) ![LinkedIn](linkedin.png) ![Heavyweight Champ](belt.png)
