@@ -1,6 +1,4 @@
 # Guilherme Pires
-[x] Desenvolvedor
-
-[x] Programador
+- [x] Venus
 
 ![Bork Lasers](bork.jpg)
