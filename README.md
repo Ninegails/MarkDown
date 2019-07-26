@@ -7,4 +7,4 @@
 
 # Redes sociais
 
-- [Twitte](https://twitter.com/gppires9)
+- [Twitter](https://twitter.com/gppires9)
